@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.5" type="plugin" group="pagecache" method="upgrade">
+	<name>plg_pagecache_test</name>
+	<author>Elijah Madden</author>
+	<creationDate>May 2016</creationDate>
+	<authorEmail>okonomiyaki3000@gmail.com</authorEmail>
+	<version>1.0.0</version>
+	<description>PLG_PAGECACHE_TEST_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="test">test.php</filename>
+		<folder>language</folder>
+	</files>
+	<config>
+	</config>
+</extension>
